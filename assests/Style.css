@@ -1,4 +1,9 @@
-<style>   
+<style>
+
+body {
+
+    }
+    
     * {
 
         margin: 0;
@@ -57,78 +62,6 @@
         font-size: 22px;
 
     }
-
-    .hero {
-
-        background-image: url(../run-buddy/assests/images/hero-bg.jpg);
-
-        height:600px;
-
-        background-size: cover;
-
-        background-position: center;
-
-        position: relative;
-
-    }
-
-    .hero-form {
-
-        border: 3px solid #024e76;
-
-        background-color: #fce138;
-
-        padding: 20px;
-
-        width: 500px;
-
-        color:#024e76;
-
-        position: absolute;
-
-        bottom: 120px;
-
-        right: 140px;
-
-    }
-
-    .hero-form h3 {
-
-        font-size: 24px;
-
-        margin: 0;
-
-    }
-
-    .hero-form p {
-
-        margin: 5px 0 15px 0;
-
-    }
-
-    .hero-form label {
-
-        margin: 0 5px;
-        
-    }
-    .form-input {
-
-        border: 1px solid #024e76;
-
-        display: block;
-
-        padding: 7px 2px;
-
-        font-size: 16px;
-
-        color: #024e76;
-
-        width: 100%;
-
-        margin-bottom: 15px;
-
-    }
-
     body {
 
         color: #39a6b2;
@@ -136,7 +69,6 @@
         font-family: Helvetica, Arial, sans-serif; 
         
     }
-
 
     footer {
 
@@ -160,7 +92,6 @@
     
     }
 
-   
     footer div{
 
         float: right;
@@ -176,14 +107,11 @@
         color: #024e76;
 
     }
-    
-    
+
     section {
-
-        padding: 60px;
         
-    }
+        padding:60px;
 
-    
-    
-</style>
+    }
+    </style>
+
