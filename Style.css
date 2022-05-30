@@ -73,13 +73,12 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url(../run-buddy/assests/images/hero-bg.jpg);
-    height:600px;
+    background-image: url('./assests/images/hero-bg.jpg');
+    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
-
 /*Hero Style End */
 
 .hero-form {
@@ -166,14 +165,14 @@ section {
     font-size: 38px;
 }
 
-     .section-title {
-        font-size: 55px;
-        color: #024e76;
-        margin-bottom: 35px;
-        padding: 0 100px 20px 100px;
-        display: inline-block;
-        border-bottom: 3px solid;
-    }
+ .section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
     
     .primary-border {
         border-color: #fce138;
